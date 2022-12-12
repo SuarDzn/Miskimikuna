@@ -1,0 +1,80 @@
+[
+    {
+        "precio": 14,
+        "id": 1,
+        "title": "Tamalito Verde",
+        "thumbnailUrl": "../img/Entradas/entradas_1.jpeg"
+    },
+    {
+        "precio": 12,
+        "id": 2,
+        "title": "Papa a la Huancaina Jr",
+        "thumbnailUrl": "../img/Entradas/entradas_2.jpg"
+    },
+    {
+        "precio": 20,
+        "id": 3,
+        "title": "Causa Limeña",
+        "thumbnailUrl": "../img/Entradas/entradas_3.png"
+    },
+    {
+        "precio": 21,
+        "id": 4,
+        "title": "Papa a la Huancaina",
+        "thumbnailUrl": "../img/Entradas/entradas_4.jpg"
+    },
+    {
+        "precio": 42,
+        "id": 5,
+        "title": "Anticucho a la Parrilla",
+        "thumbnailUrl": "../img/Anticuchos/anticuchos_1.png"
+    },
+    {
+        "precio": 30,
+        "id": 6,
+        "title": "Anticuchos de Res",
+        "thumbnailUrl": "../img/Anticuchos/anticuchos_2.jpg"
+    },
+    {
+        "precio": 25,
+        "id": 7,
+        "title": "Anticuchos de Pollo",
+        "thumbnailUrl": "../img/Anticuchos/anticuchos_3.jpg"
+    },
+    {
+        "precio": 12,
+        "id": 8,
+        "title": "Cerveza Cristal",
+        "thumbnailUrl": "../img/Cervezas/cervezas_1.jpg"
+    },
+    {
+        "precio": 12,
+        "id": 9,
+        "title": "Cerveza Cusqueña",
+        "thumbnailUrl": "../img/Cervezas/cervezas_2.jpg"
+    },
+    {
+        "precio": 8,
+        "id": 10,
+        "title": "Gaseosa Coca Cola",
+        "thumbnailUrl": "../img/Gaseosas/gaseosas_1.jpg"
+    },
+    {
+        "precio": 8,
+        "id": 11,
+        "title": "Gaseosa Coca Cola Zero",
+        "thumbnailUrl": "../img/Gaseosas/gaseosas_2.jpg"
+    },
+    {
+        "precio": 128,
+        "id": 12,
+        "title": "Bernard Humbrecht - Riesling - 2017",
+        "thumbnailUrl": "../img/Vinos/vinos_1.jpg"
+    },
+    {
+        "precio": 145,
+        "id": 13,
+        "title": "Cabané - Langhe - 2016",
+        "thumbnailUrl": "../img/Vinos/vinos_2.jpg"
+    }
+]

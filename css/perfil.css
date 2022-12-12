@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  background: #101010;
+  position: relative;
+  height: 100%;
+}
+
+span {
+  color: #050924;
+}
+
+input {
+  overflow-x: auto;
+}
+
+.card-body {
+  margin: 3rem;
+}
+
+.container {
+  margin: 2rem 20rem;
+}
+
+.txt {
+  color: #050924;
+}
+
+.user-profile {
+  padding: 0 2rem;
+}
+
+.user-avatar {
+  padding-top: 2rem;
+}
+
+.about {
+  padding-bottom: 2rem;
+}
+
+.account-settings .user-profile {
+  margin: 0 0 0 0;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+
+.account-settings .user-profile .user-avatar i {
+  margin: 0 0 1rem 0;
+  color: #050924;
+}
+
+.account-settings .about {
+  text-align: center;
+  color: #050924;
+}
+
+label {
+  color: #050924;
+}
+
+.card {
+  background: #ffffff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: 0;
+  margin-bottom: 1rem;
+  color: #050924;
+}
+
+.input {
+  display: block;
+  padding: 1rem 1.2rem;
+  width: 90%;
+  margin: 5% auto 4% auto;
+  border: 1px solid #ddd;
+  transition: border-width 0.2s ease;
+  border-radius: 2px;
+  color: #050924;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+h2 {
+  font-size: 1.2rem;
+  padding: 1.5rem 1rem 1.5rem 0;
+}
+
+h5 {
+  font-size: 1.2rem;
+  padding: 1rem 0 0.2rem 0;
+}
+
+input[type=submit] {
+  color: #ffffff;
+  padding: 1rem 1.2rem;
+  margin: 5% auto 4% auto;
+  font-weight: 300;
+  font-size: 15px;
+  display: block;
+  background: #101010;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+input[type=submit]:hover {
+  color: #101010;
+  border-color: #101010;
+  background: white;
+  transition: all .2s linear;
+}
+
+@media (max-width: 1700px){
+  .container {
+    margin: 2rem 7rem;
+  }
+}
+
+@media (max-width: 1310px){
+  .container {
+    margin: 2rem 5rem;
+  }
+  .card-body{
+    margin: 0.5rem 1.5rem;
+  }
+}
+
+@media (max-width: 1080px){
+  .container {
+    margin: 2rem 1rem;
+  }
+}
+
+@media (max-width: 952px) {
+  .container {
+    margin: 2rem 3rem;
+  }
+}
